@@ -20,4 +20,7 @@
 ![ssh_1](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/ssh_1.png)
 ![ssh_2](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/ssh_2.png)
 ![ssh_3](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/ssh_3.png)
-![]()
+![putty_1](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_1.png)
+![putty_2](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_2.png)
+![putty_3](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_3.png)
+![putty_4](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_4.png)
