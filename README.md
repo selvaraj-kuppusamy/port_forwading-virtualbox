@@ -6,12 +6,21 @@
 ### Another way
 * Install [PuTTY](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/putty/installation/putty.sh)
 
-
-
+Download Virtual Disk Image(VDI)
+choose your favourite linux Distribution 
+* Download [osboxes](https://www.osboxes.org/)
 
 ![osboxes](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/osboxes.png)
+
+And choose Virtual box and select favourite linux Distribution
+In my case I Download CentOS 8.3 Desktop
+
 ![osboxes_web](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/osboxes_web.png)
+
+After Extract the 64bit.7z file 
+
 ![vdi](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/vdi.png)
+
 ![virtualbox_1](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_1.png)
 ![virtualbox_2](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_2.png)
 ![virtualbox_3](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_3.png)
