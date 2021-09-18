@@ -66,9 +66,21 @@ One thing to note: Leaving the Host IP blank will default to 127.0.0.1 and leavi
 
 If the guest VM isn't running, start it up and wait for the boot process to complete.
 ![virtualbox_13](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_13.jpeg)
+# Connecting to the guest
+Now it's time to connect to the guest. As it stands, we're routing port 2222 on the Host to port 22 on the guest. So if you're on the Host machine, you'll Secure Shell to the guest with the command:
+
+ssh -p2222 USERNAME@127.0.0.1O
+
 ![ssh_1](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/ssh_1.png)
+Where USERNAME is a valid username on the Guest. You will be prompted for the user password and be given access.
+Username: osboxes
+Password: osboxes.org
+Root Account Password: osboxes.org
+
 ![ssh_2](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/ssh_2.png)
+Use exit command to logout the session
 ![ssh_3](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/ssh_3.png)
+# Another Way
 ![putty_1](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_1.png)
 ![putty_2](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_2.png)
 ![putty_3](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_3.png)
