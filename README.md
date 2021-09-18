@@ -73,9 +73,9 @@ ssh -p2222 USERNAME@127.0.0.1O
 
 ![ssh_1](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/ssh_1.png)
 Where USERNAME is a valid username on the Guest. You will be prompted for the user password and be given access.
-Username: osboxes
-Password: osboxes.org
-Root Account Password: osboxes.org
+* Username: osboxes
+* Password: osboxes.org
+* Root Account Password: osboxes.org
 
 ![ssh_2](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/ssh_2.png)
 Use exit command to logout the session
