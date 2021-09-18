@@ -75,9 +75,11 @@ In the Port Forwarding Rules window, click the + button and fill out the new rul
 ![virtualbox_10](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_10.png)
 
 Once you've filled that out<br>
-click OK to save the rule.
+click **OK** to save the rule.
 
 ![virtualbox_11](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_11.png)
+
+Click **OK**
 
 ![virtualbox_12](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_12.png)
 
