@@ -1,4 +1,15 @@
-# port_forwading-virtualbox
+# port-forwading-virtualbox
+
+### prerequisites
+* Install [VirtualBox](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/virtualbox/installation/virtualbox_install.sh)
+
+### Linux users
+* Install [OpenSSH](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/ssh/installation/openssh.sh)
+
+### Windows sers
+* Install [PuTTY](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/putty/installation/putty.sh)
+
+
 
 
 ![osboxes](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/osboxes.png)
