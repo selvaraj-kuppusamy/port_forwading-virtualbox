@@ -83,7 +83,7 @@ Click **OK**
 
 ![virtualbox_12](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_12.png)
 
-In this case,click **Start** and click **Headless Start(detachable mode)**
+In this case,click **Start** option and click **Headless Start(detachable mode)**
 
 One thing to note: Leaving the ***Host IP*** blank will default to ***127.0.0.1*** and leaving the Guest IP address blank will default to whatever IP address is assigned to the Guest. This is the most logical choice, as IP addresses change and you never know what address you'll be connecting from.<br>
 
