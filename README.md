@@ -26,8 +26,8 @@ Click new and name the Operating System
 ![virtualbox_1](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_1.png)
 Next, Allocate RAM size
 ![virtualbox_2](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_2.png)
-Next, Hard Disk
-In this choose  use an existing virtual hard disk file
+Next, Hard Disk<br>
+In this case, choose an existing virtual hard disk file
 
 ![virtualbox_3](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_3.png)
 Choose our Extracted Virtual Disk Image(VDI).
@@ -40,12 +40,31 @@ Click to Create an Virtual Machine.
 ![virtualbox_7](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_7.png)
 Now ,Virtual Machine is Created.
 ![virtualbox_8](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_8.png)
-Click Settings and go to Network.
-let click Advanced Settings.
+Click Settings and go to Network.<br>
+And click Advanced Settings.
 ![virtualbox_9](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_9.png)
+Open VirtualBox and select the VM you want to alter. Click Settings and then click on the Network tab. In the Network window expand the Advanced section and click Port Forwarding<br>
+In the Port Forwarding Rules window, click the + button and fill out the new rule as such:
+
+* Name - SSH
+* Protocol - TCP
+* Host IP - leave blank
+* Host Port - 2222
+* Guest IP - leave blank
+* Guest Port - 22
+
 ![virtualbox_10](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_10.png)
+Once you've filled that out<br>
+click OK to save the rule.
 ![virtualbox_11](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_11.png)
+
 ![virtualbox_12](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_12.png)
+
+In this case,click Start and click Headless Start(detachable mode)
+
+One thing to note: Leaving the Host IP blank will default to 127.0.0.1 and leaving the Guest IP address blank will default to whatever IP address is assigned to the Guest. This is the most logical choice, as IP addresses change and you never know what address you'll be connecting from.<br>
+
+If the guest VM isn't running, start it up and wait for the boot process to complete.
 ![virtualbox_13](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_13.jpeg)
 ![ssh_1](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/ssh_1.png)
 ![ssh_2](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/ssh_2.png)
