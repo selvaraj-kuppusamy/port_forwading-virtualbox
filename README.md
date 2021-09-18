@@ -89,7 +89,11 @@ Checking OS version
 Use exit command to logout the session
 ![ssh_3](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/ssh_3.png)
 # Windows Users
-Open PuTTY 
+Open PuTTY <br>
+In Session, Specify the destination you want to connect to<br>
+* Host Name(or IP address) : 127.0.0.1
+* Port : 2222
+* Connection type: SSH
 ![putty_1](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_1.png)
 ![putty_2](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_2.png)
 ![putty_3](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_3.png)
