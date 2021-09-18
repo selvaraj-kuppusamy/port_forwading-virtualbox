@@ -94,7 +94,23 @@ In Session, Specify the destination you want to connect to<br>
 * Host Name(or IP address) : 127.0.0.1
 * Port : 2222
 * Connection type: SSH
+
+Click to Open the PuTTY software
 ![putty_1](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_1.png)
+
+In PuTTY security Alert Shown:<br>
+Accept the COnnection
 ![putty_2](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_2.png)
+
+Where USERNAME is a valid username on the Guest. You will be prompted for the user password and be given access.
+* Username: osboxes
+* Password: osboxes.org
+* Root Account Password: osboxes.org
+
 ![putty_3](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_3.png)
+
+Checking OS version 
+
 ![putty_4](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/putty_4.png)
+
+# conclusion
