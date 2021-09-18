@@ -42,6 +42,7 @@ Click to Create an Virtual Machine.
 ![virtualbox_7](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_7.png)
 Now ,Virtual Machine is Created.
 ![virtualbox_8](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_8.png)
+# Creating the rule
 Click Settings and go to Network.<br>
 And click Advanced Settings.
 ![virtualbox_9](https://github.com/selvaraj-kuppusamy/port_forwading-virtualbox/blob/main/assets/virtualbox_9.png)
